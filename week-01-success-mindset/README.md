@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Any experience that you repeatedly imagine vividly will eventually become your experience
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent, focused work over time produces better results than relying on inspiration or motivation alone.
 
 ### Evidence from my life
 
-Add your answer here...
+I have consistently worked on multiple long-term projects, including church planting, ministry development, grant applications, and blockchain initiatives. The projects that made meaningful progress were the ones I kept improving over months rather than waiting until I felt motivated. Repeated execution always produced better outcomes than occasional bursts of effort.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Systems and discipline consistently outperform talent without structure.
 
 ### Evidence from my life
 
-Add your answer here...
+I have taken on demanding responsibilities across ministry, tech, writing, and leadership. Whenever I built clear routines, planned my work, and followed a through, I accomplished significantly more than when I relied on ability alone. The quality and consistency of my output improved because the system carried me even when there was no motivation.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+People trust demonstrated character and competence more than words or intentions
 
 ### Evidence from my life
 
-Add your answer here...
+In ministry, and professional work, I found that opportunities came after people observed my consistency, integrity, and ability to deliver. Simply expressing vision or making promises was never enough; trust grew through repeated faithful action, which opened doors for leadership, partnerships, and greater responsibility.
 
 ---
 
@@ -135,13 +135,26 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Seven years after beginning his transition into Cloud and DevOps engineering, Isaac Wanger had established himself among the top one percent of DevOps consultants globally. He became widely recognized for designing highly scalable, secure, and resilient cloud infrastructure that enabled startups, enterprises, and mission-driven organizations to deploy software faster, reduce operational costs, and achieve exceptional reliability.
+
+His portfolio reflected years of disciplined execution rather than isolated achievements. He had built and shipped dozens of production-grade cloud solutions using AWS, Kubernetes, Docker, Terraform, Ansible, and modern CI/CD platforms. He led cloud migration projects that successfully moved legacy applications to cloud-native architectures while improving system performance, security, and availability. Several organizations credited his infrastructure designs with reducing deployment times from hours to minutes and significantly improving system uptime.
+
+His GitHub portfolio became a respected resource within the DevOps community. It contained production-ready Infrastructure-as-Code templates, Kubernetes deployment examples, CI/CD pipeline implementations, automation scripts, and reusable DevOps frameworks that were adopted by developers around the world. His open-source contributions earned recognition from leading cloud communities and technology companies.
+
+Isaac continuously invested in mastery. He earned multiple industry certifications, including AWS Professional certifications, Kubernetes certifications, Terraform certification, and advanced security credentials. Rather than collecting certificates, he consistently demonstrated their practical application through successful enterprise implementations and published technical case studies.
+
+His technical blog became one of the most trusted learning resources for Cloud and DevOps engineers, attracting hundreds of thousands of readers annually. He published in-depth articles, practical tutorials, architecture guides, and real-world implementation lessons that helped engineers move beyond theory into production-ready expertise. His conference talks, webinars, and technical workshops equipped thousands of professionals across Africa and beyond with practical cloud engineering skills.
+
+Beyond consulting, he built and led a globally distributed DevOps consulting firm that partnered with organizations across multiple continents. The company specialized in cloud architecture, DevOps transformation, platform engineering, infrastructure automation, observability, cloud security, and Site Reliability Engineering (SRE). Under his leadership, the firm delivered successful digital transformation projects for clients ranging from fast-growing startups to multinational organizations.
+
+Equally significant was his commitment to developing people. He mentored hundreds of aspiring Cloud and DevOps engineers, many of whom secured international remote positions or became technical leaders themselves. Through mentorship programs, community initiatives, and open educational resources, he contributed significantly to expanding Africa's cloud engineering talent pool.
+
+By combining deep technical expertise, consistent delivery, open-source contribution, leadership, and a passion for teaching, Isaac had become a globally respected authority whose work shaped cloud engineering practices far beyond the organizations he directly served.
+
 
 ### Public Link
 
-Paste your link here:
-
-`__________________________`
+`https://medium.com/@0xkyng/my-2-0-version-a-top-1-global-devops-consultant-0e879386ff16`
 
 ---
 
@@ -173,7 +186,14 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+## Answer
+
+**Yes**
+
+**What emotion did you feel?**
+
+There have been moments when I took shortcuts that did not fully align with my values, even though they were not illegal or intentionally harmful. The strongest emotion I felt afterward was guilt because I knew I had compromised the standard I wanted to uphold. I also experienced stress and uneasiness. More than anything, I felt disappointed in myself because I knew I was capable of doing better. Those experiences taught me that temporary convenience is rarely worth sacrificing integrity. Since then, I have become more intentional about choosing honesty, taking responsibility for my work, and trusting that doing things the right way produces better long-term results than any shortcut ever could.
+
 
 ---
 
@@ -199,16 +219,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Never Eat Alone  - Keith Ferrazzi
+2. Communicating for Change - Andy Stanley
+3. Mindset: The New Psychology of Success - Carol Dweck
+4. Never Split the Difference — Chris Voss
+5. The First 90 Days — Michael D. Watkins
+6. The Psychology of Money — Morgan Housel
+7. The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois & John Willis
+8. The 7 Habits of Highly Effective People — Stephen R. Covey
+9. Deep Work — Cal Newport
+10. The Phoenix Project — Gene Kim, Kevin Behr & George Spafford
 
 ---
 
@@ -237,16 +257,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* Sleep quality, exercise, and overall energy levels
+* Professional network growth and mentorship conversations
+* Client impact, portfolio updates, and career milestones achieved
+* Technical articles and blog posts published
+* Personal spending, savings, and investment tracking
+* Projects built, shipped, and documented
+* Deep work sessions and focused work hours
+* Time spent in helping my coleagues
+* Hands-on lab
 
 ---
 
@@ -324,15 +344,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I perform at my best when I work from a clear system instead of relying on motivation. Consistency compounds over time, and even small daily improvements produce meaningful long-term results.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I sometimes spend too much time consuming information instead of applying it. I also tend to switch between ideas before completing the current one, which slows down my progress.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every weekday from 9:00 AM to 12:00 noon, I will complete one uninterrupted Deep Work session focused on Cloud and DevOps. During this time, I will either build a project, complete a hands-on lab, or prepare for a certification. I will document what I accomplished on GitHub or in my learning journal before ending the session.
 
 ### LinkedIn Post
 
@@ -345,7 +365,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : **[My 2.0 Version](https://medium.com/@0xkyng/my-2-0-version-a-top-1-global-devops-consultant-0e879386ff16?sharedUserId=0xkyng)**  
 
 ---
 
