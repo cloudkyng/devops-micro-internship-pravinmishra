@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed<br> | ✅ Solved | https://www.linkedin.com/posts/isaacwanger_devops-micro-internship-docker-k8s-cloud-share-7439062585334722560-OO3_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnosJIBQOiqhqwu_o90ZE3rMukMZu-QQ8E | — |
-| 01 | Success Mindset | ✅ Completed<br> | ✅ Solved | — | — |
+| 01 | Success Mindset | ✅ Completed<br> | ✅ Solved | — | https://medium.com/@0xkyng/my-2-0-version-a-top-1-global-devops-consultant-0e879386ff16?sharedUserId=0xkyng |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
